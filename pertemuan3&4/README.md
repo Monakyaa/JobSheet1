@@ -124,7 +124,7 @@ $mahasiswa->aksesFitur();
 Merupakan sebuah class yang tidak dapat di instansiasi atau mewakil dari class atau tidak dapat dibuat sebagai objek dan merupakan kelas dasar untuk kelas kelas yang lebih spesifik.
 ## Abstract Method
 Pada abstract method layaknya "Ini harus dilakukan" namun caranya seperti apa itu bebas tergantung dengan kelas turunan.
-### Controh Pada Project
+### Contoh Pada Project
 ```sh
 <?php
 abstract class Pengguna{
