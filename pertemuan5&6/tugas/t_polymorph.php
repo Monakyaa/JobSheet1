@@ -66,13 +66,13 @@ class Dosen extends Person{
 }
 
 // Buat objek Mahasiswa dan Dosen
-$mhs = new Mahasiswa("Dewi", "230102058");
-$dsn = new Dosen("Mona", "23010000000");
+$mahasiswa = new Mahasiswa("Dewi", "230102058");
+$dosen = new Dosen("Mona", "23010000000");
 
 // Tambahkan nama untuk objek Person
 $person = new Person("Dewi Mona Rizki");
 
 // Panggil metode printRole
-$person->printRole($mhs);
-$person->printRole($dsn);
+$person->printRole($mahasiswa);
+$person->printRole($dosen);
 ?>
