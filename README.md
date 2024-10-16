@@ -98,7 +98,7 @@ class Mahasiswa{
 ?>
 ```
 ## Inheritance (Pewarisan)
-Inheritance atau pewarisan merupakan pewarisan dari class induk ke kelas lain. Biasnya ditandai dengan Prtotected. 
+Inheritance atau pewarisan merupakan pewarisan dari class induk ke kelas lain. Biasanya ditandai dengan Prtotected. 
 ### Contoh pada project
 ```sh
 <?php
